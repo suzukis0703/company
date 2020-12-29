@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["projetct2"],{"8f7c":function(e,t,n){"use strict";n.r(t);var s=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},a=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"sa"},[n("h1",[e._v("This is an projet page2")])])}],c=n("2877"),r={},i=Object(c["a"])(r,s,a,!1,null,null,null);t["default"]=i.exports}}]);
+//# sourceMappingURL=projetct2.37ddff94.js.map
